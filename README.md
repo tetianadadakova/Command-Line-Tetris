@@ -24,9 +24,9 @@ make
 
 ## To set up and run directly in Xcode
 
-Add -lncurses to Build Settings -> Other Linker Flags
-Add _XOPEN_SOURCE_EXTENDED=500 to Preprocessor Macros
-Change Product -> Scheme -> Edit Scheme -> Options -> Use Terminal
+* Add `-lncurses` to Build Settings -> Other Linker Flags
+* Add `_XOPEN_SOURCE_EXTENDED=500` to Preprocessor Macros
+* Change Product -> Scheme -> Edit Scheme -> Options -> Use Terminal
 
 
 ## License
