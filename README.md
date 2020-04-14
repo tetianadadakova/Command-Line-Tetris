@@ -1,3 +1,6 @@
+![](media/Tetris_mov.gif)
+
+
 # Command line Tetris in C++
 
 Mac OS version of the Javidx9's [original code](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Tetris.cpp) and a great [YouTube tutorial](https://www.youtube.com/watch?v=8OK8_tHeCIA&t=1806s).

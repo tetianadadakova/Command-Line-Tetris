@@ -4,4 +4,7 @@
 # Ignore build dir
 build
 
+# Ignore files
+media/Tetris_mov.cast
+
 
